@@ -6,6 +6,8 @@ const SubSkills = () => {
           src="../../public/images/subSkills.jpg"
           alt="subSkills image"
           className=""
+          crossOrigin="anonymous"
+            
         />
       </div>
     );
