@@ -1,6 +1,6 @@
 import React from "react";
 
-const YouTubeVideos = () => {
+const YoutubeVideos = () => {
   const videos = [
     { id: "8L_YG5ZYWQc" },
     { id: "waouoJ1QG70" },
@@ -27,4 +27,4 @@ const YouTubeVideos = () => {
   );
 };
 
-export default YouTubeVideos;
+export default YoutubeVideos;
