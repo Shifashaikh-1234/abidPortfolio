@@ -14,6 +14,7 @@ const HeroPic = () => {
       <img
         src="../../public/images/abidImg.png"
         alt="Abid saudagar"
+        crossOrigin="anonymous"
         className="max-h-[450px] w-auto"
       />
 
