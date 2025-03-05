@@ -6,6 +6,7 @@ const AboutMeImage = () => {
             src="../../public/images/aboutMe.jpg"
             alt="About Me Image"
             className="h-full w-auto object-cover"
+            crossOrigin="anonymous"
           />
         </div>
         <div className="h-[500px] w-[250px] ml-3 bg-lightGrey absolute bottom-[-30px] left-[-30px] rounded-bl-[120px] rounded-tr-[120px] rounded-br-[20px] rounded-tl-[20px] -z-10"></div>
