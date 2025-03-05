@@ -6,6 +6,7 @@ const ContactMeRight = () => {
         src="../../public/images/abidLogo.jpg"
         alt="email image"
         className="max-w-[300px] rounded-full"
+        crossOrigin="anonymous"
       />
       <ContactInfo />
     </div>
